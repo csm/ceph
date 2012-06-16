@@ -1363,6 +1363,7 @@ noinst_HEADERS = \
 	librados/IoCtxImpl.h\
 	librados/PoolAsyncCompletionImpl.h\
 	librados/RadosClient.h\
+	librbd/cls_rbd.h\
 	librbd/cls_rbd_client.h\
 	librbd/LibrbdWriteback.h\
 	logrotate.conf\
